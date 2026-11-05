@@ -8,9 +8,9 @@ Daybook opens in English, with a Chinese language switch available in the header
 
 **Website address:** [Open Daybook](https://mikechengx.github.io/daybook/)
 
-> Publication status: the application is uploaded. The repository owner must enable GitHub Pages once before the website link becomes available.
+**Live:** GitHub Pages is enabled. The English homepage, phone layout, task list, and saved progress after refresh have been checked on the published website.
 
-To enable the website, open [Settings → Pages](https://github.com/mikechengx/daybook/settings/pages). Under **Build and deployment**, choose **Deploy from a branch**, select **main** and **/(root)**, then click **Save**. Once GitHub finishes deploying, the website address above will work. Later changes to `main` will publish automatically.
+Publishing is configured in [Settings → Pages](https://github.com/mikechengx/daybook/settings/pages): **Deploy from a branch**, **main**, **/(root)**. Later changes to `main` publish automatically.
 
 [Source code](https://github.com/mikechengx/daybook) · [Download source ZIP](https://github.com/mikechengx/daybook/archive/refs/heads/main.zip) · [Deployment progress](https://github.com/mikechengx/daybook/actions)
 
