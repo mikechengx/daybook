@@ -1,0 +1,9 @@
+{
+  "name": "daybook-family-planner",
+  "version": "0.2.0",
+  "private": true,
+  "description": "A low-pressure, English-first family planner with editable lists, progress, images, and gentle reminders.",
+  "type": "module",
+  "engines": { "node": ">=22" },
+  "scripts": { "start": "node serve.mjs", "test": "node tests/smoke.mjs" }
+}
