@@ -1,5 +1,9 @@
 # Daybook
 
+## [Open Daybook — live website ↗](https://mikechengx.github.io/daybook/)
+
+**[Use the planner](https://mikechengx.github.io/daybook/)** · [Download the project](https://github.com/mikechengx/daybook/archive/refs/heads/main.zip)
+
 A simple, low-pressure daily planner for families. A place for parents’ work, kids’ homework, and the everyday things around the house.
 
 Daybook opens in English, with a Chinese language switch available in the header.
