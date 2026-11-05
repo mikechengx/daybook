@@ -4,6 +4,27 @@ A simple, low-pressure daily planner for families. A place for parents’ work, 
 
 Daybook opens in English, with a Chinese language switch available in the header.
 
+## Website
+
+**Website address:** [Open Daybook](https://mikechengx.github.io/daybook/)
+
+> Publication status: the application is uploaded. The repository owner must enable GitHub Pages once before the website link becomes available.
+
+To enable the website, open [Settings → Pages](https://github.com/mikechengx/daybook/settings/pages). Under **Build and deployment**, choose **Deploy from a branch**, select **main** and **/(root)**, then click **Save**. Once GitHub finishes deploying, the website address above will work. Later changes to `main` will publish automatically.
+
+[Source code](https://github.com/mikechengx/daybook) · [Download source ZIP](https://github.com/mikechengx/daybook/archive/refs/heads/main.zip) · [Deployment progress](https://github.com/mikechengx/daybook/actions)
+
+## Preview
+
+![Daybook desktop home](docs/desktop.png)
+
+<details>
+<summary>Phone layout</summary>
+
+<img src="docs/mobile.png" alt="Daybook phone layout" width="350">
+
+</details>
+
 ## What it does
 
 - Create and rename your own lists, such as **Work must-dos**, **After-school things**, or **Around the house**.
